@@ -1,5 +1,5 @@
 # Concept to Cash
-Presented at [DDD Brisbane 2015](http://dddbrisbane.com) with [Deckset](http://decksetapp.com) "Ostrich" theme in the pink/orange-on-blue color scheme.
+Presented at [DDD Brisbane](http://dddbrisbane.com) 2015 with [Deckset](http://decksetapp.com) "Ostrich" theme in the pink/orange-on-blue color scheme.
 
 Side projects are common for a lot of programmers. Programmers love building things. What if you could sell it? Modern app stores make it easy to publish apps but how do you build something that normal people would actually buy? There's a big gap between a talking about an app idea and actually shipping and earning money from it. 
 
